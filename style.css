@@ -1,0 +1,258 @@
+body {
+    background-image: url("img/b_body.jpg");
+
+}
+
+header {
+    margin-left: 280px;
+    margin-top: 50px;
+}
+
+.menu {
+    margin-left: 110px;
+}
+
+.logo-slogan {
+    margin-left: 70px;
+}
+
+.index-table {
+    margin-inline: 10%;
+
+    margin-top: 50px;
+    margin-left: 150px;
+
+
+}
+
+.index-table-images {
+    border: 1mm dotted gray;
+    padding-left: 120px;
+    padding-bottom: 30px;
+    padding-top: 30px;
+}
+
+.index-about {
+    margin-top: 100px;
+    margin-left: 350px;
+    width: 200px;
+    height: 200px;
+}
+
+.index-text0 {
+    color: green;
+}
+
+.index-vision {
+    margin-top: -200px;
+    margin-left: 700px;
+    width: 200px;
+    height: 200px;
+}
+
+.index-news {
+    margin-top: -200px;
+    margin-left: 1050px;
+    width: 200px;
+    height: 200px;
+
+}
+
+.b {
+    margin-top: -25px;
+    margin-left: 25px;
+}
+
+.content {
+    margin-left: 280px;
+    margin-top: 100px;
+}
+
+.menu2 {
+    margin-left: 300px;
+
+}
+
+.icons {
+    margin-left: 900px;
+    margin-top: -75px;
+}
+
+footer {
+    margin-bottom: 50px;
+}
+
+.thumb00 {
+    padding-bottom: 125px;
+}
+
+#thumb {
+    padding: 20px;
+}
+
+#thumb02 {
+    padding: 20px;
+}
+
+#thumb03 {
+    padding: 20px;
+}
+
+#about-img {
+    margin-left: 350px;
+    border: 0.5mm dotted gray;
+    margin-top: 20px;
+}
+
+.about-abm {
+    width: 500px;
+    height: 300px;
+    margin-top: -250px;
+    margin-left: 650px;
+}
+
+.about-ed {
+    width: 200px;
+    height: 200px;
+    margin-left: 350px;
+}
+
+.about-de {
+    width: 500px;
+    height: 300px;
+    margin-left: 650px;
+    margin-top: -200px;
+}
+
+.about-de-right {
+    margin-left: 250px;
+    margin-top: -145px;
+}
+
+.menu-underline {
+    margin-left: 30px;
+    height: 1mm;
+    width: 850px;
+    border-bottom: dotted 1mm gray;
+}
+
+.port-fl {
+    margin-left: 300px;
+}
+
+.menu-underline1 {
+    height: 550px;
+    width: 1mm;
+    border-left: dotted 1mm gray;
+    margin-top: -550px;
+    margin-left: 550px;
+}
+
+#port-right-img {
+    border: dotted 0.25mm black;
+}
+
+.port-right {
+    margin-left: 600px;
+    margin-top: -575px;
+}
+
+.port-btn11 {
+    color: white;
+    margin-top: -25px;
+    margin-left: 7.5px;
+}
+
+.port-btn12 {
+    margin-top: -25px;
+    margin-left: 7.5px;
+}
+
+.port-btn1 {
+    margin-top: -25px;
+    margin-left: 400px;
+}
+
+.port-btn2 {
+    margin-top: -20px;
+    margin-left: 440px;
+
+}
+
+.port-btn3 {
+    margin-top: -20px;
+    margin-left: 480px;
+
+}
+
+.service-srv {
+    margin-left: 350px;
+    margin-top: 20px;
+    height: 200px;
+    width: 450px;
+}
+
+#service-img {
+    margin-top: -200px;
+    margin-left: 820px;
+}
+
+.web-design {
+    margin-left: 350px;
+    margin-top: 100px;
+    height: 200px;
+    width: 200px;
+}
+
+.branding {
+    margin-top: -200px;
+    height: 200px;
+    width: 200px;
+    margin-left: 600px;
+
+}
+
+.prt-des {
+    margin-top: -200px;
+    height: 200px;
+    width: 200px;
+    margin-left: 820px;
+
+}
+.contactme{
+    padding-top: 20px;
+    margin-left: 350px;
+    width: 400px;
+}
+#contact1{
+    margin-left: 800px;
+    margin-top: -400px;
+}
+.message{
+    margin-left: 350px;
+
+}
+.message1{
+    background-image: url("img/b_input2.png");
+    width: 675px;
+    height: 90px;
+}
+.input{
+    background-image: url("img/b_input1.png");
+    border: none;
+    width: 200px;
+    height: 30px;
+    padding-right:20px ;
+    padding-bottom: 20px;
+
+}
+#send{
+    margin-bottom:  -50px;
+    margin-left: -150px;
+}
+.phone{
+    color: orange;
+}
+
+
+
